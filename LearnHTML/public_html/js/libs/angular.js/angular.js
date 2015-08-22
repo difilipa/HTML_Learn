@@ -20,6 +20,7 @@
 var lowercase = function(string){return isString(string) ? string.toLowerCase() : string;};
 
 
+
 /**
  * @ngdoc function
  * @name angular.uppercase
