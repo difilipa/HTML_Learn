@@ -1,0 +1,42 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 17, 2015, 9:13:06 PM
+    Author     : Pasquale
+*/
+h1{
+    Color:blue;
+    Font-size: 28pt;
+    Font-weight: bold;
+    text-align:center;
+    font-family: helvetica, sans-serif;
+}
+p{
+    color: #000000;
+}
+body{
+    color: red;
+    margin-left:20px;
+    background-image: url('http://egords27.edumsko.ru/images/users-files/egords27/ood/132421643034.jpg');
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+h2{
+ margin-top:5px;   
+}
+li{
+    color:green;
+    padding-bottom: 3px;
+}
+figure{
+    padding:0px;
+    border-style:solid;
+    color: black;
+    font-weight:bold;
+    float:left;
+    border-color: black;
+}
+
